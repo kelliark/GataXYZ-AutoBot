@@ -20,8 +20,8 @@ A multi-account automation tool for the DVA verification process. This script au
 
 **Clone the repository:**
 ```bash
-git clone https://github.com/kelliark/Gata-AutoBot.git
-cd Gata-AutoBot
+git clone https://github.com/kelliark/GataXYZ-AutoBot.git
+cd GataXYZ-AutoBot
 ```
 
 **Install dependencies:**
