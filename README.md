@@ -32,9 +32,9 @@ npx playwright install
 
 ## Configure these files:
 
-- accounts.json - Contains account details
-- config.json - Contains general configuration
-- proxies.txt - Contains proxy list (optional but recommended)
+- **accounts.json** - Contains account details
+- **config.json** - Contains general configuration
+- **proxies.txt** - Contains proxy list (optional but recommended)
 
 # Configuration
 **accounts.json**
