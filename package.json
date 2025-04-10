@@ -1,0 +1,16 @@
+{
+    "name": "dva-automation",
+    "version": "1.0.0",
+    "description": "DVA Multi-Account Automation Tool",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js",
+      "debug": "DEBUG=1 node index.js"
+    },
+    "dependencies": {
+      "playwright": "^1.40.0",
+      "axios": "^1.6.0",
+      "chalk": "^4.1.2",
+      "figlet": "^1.7.0"
+    }
+  }

@@ -1,0 +1,16 @@
+{
+    "activityInterval": 120000,
+    "startDelay": 15000,
+    "maxRetries": 3,
+    "inactivityThreshold": 300000,
+    "reportInterval": 300000,
+    "notifications": {
+      "enabled": false,
+      "type": "telegram",
+      "config": {
+        "botToken": "",
+        "chatId": ""
+      }
+    },
+    "cleanupInterval": 86400000
+  }

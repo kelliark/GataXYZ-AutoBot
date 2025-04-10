@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Account1",
+    "address": "0x...",
+    "bearer": "bearer-token",
+    "data_agent_token": "data-agent-token",
+    "llm_token": "llm-token",
+    "task_token": "task-token",
+    "invite_code": "invite-code",
+    "proxy": "optional-dedicated-proxy"
+  },
+  {
+    "name": "Account2",
+    "address": "0x...",
+    "bearer": "bearer-token",
+    "data_agent_token": "data-agent-token",
+    "llm_token": "llm-token",
+    "task_token": "task-token",
+    "invite_code": "invite-code"
+  }
+]
